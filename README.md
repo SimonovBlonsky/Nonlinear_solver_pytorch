@@ -1,0 +1,3 @@
+# Nonlinear_solver_python
+A non-linear solver for visual-inertial bundle adjustment in pytorch, makes your bundle adjustment differentiable!
+Code is coming soon...
